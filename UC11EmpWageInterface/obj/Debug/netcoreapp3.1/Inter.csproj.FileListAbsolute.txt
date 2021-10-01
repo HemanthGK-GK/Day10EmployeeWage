@@ -1,0 +1,14 @@
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.csproj.AssemblyReference.cache
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.AssemblyInfoInputs.cache
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.AssemblyInfo.cs
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\Inter\bin\Debug\netcoreapp3.1\Inter.exe
+C:\Users\91807\source\repos\Inter\bin\Debug\netcoreapp3.1\Inter.deps.json
+C:\Users\91807\source\repos\Inter\bin\Debug\netcoreapp3.1\Inter.runtimeconfig.json
+C:\Users\91807\source\repos\Inter\bin\Debug\netcoreapp3.1\Inter.runtimeconfig.dev.json
+C:\Users\91807\source\repos\Inter\bin\Debug\netcoreapp3.1\Inter.dll
+C:\Users\91807\source\repos\Inter\bin\Debug\netcoreapp3.1\Inter.pdb
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.dll
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.pdb
+C:\Users\91807\source\repos\Inter\obj\Debug\netcoreapp3.1\Inter.genruntimeconfig.cache
